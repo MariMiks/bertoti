@@ -45,4 +45,4 @@ Mesmo que está seja a proposta do aplicativo, deveria ter uma maneira de evitar
 Em momentos de erros na aplicação, é importante que o usuário saiba como resolver, esta explicação deve ser feita de modo simples e de fácil entendimento de todos.
 
 Na imagem não é possivel entender o que deu de errado e nem sequer como sair desta situação. O único modo de escape seria fechar a tela e recomeçar do zero.
-<img src="imagens/teams.png">
+<img src="imagens/9-eb.png">
